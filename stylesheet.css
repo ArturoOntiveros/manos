@@ -1,0 +1,14 @@
+@media(max-width: 1366px){
+	body{
+		background: green;
+	}
+}
+
+
+@media(max-width: 1000px){
+	body{
+		background: red;
+	}
+
+}
+
